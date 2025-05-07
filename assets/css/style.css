@@ -199,3 +199,6 @@ body{
 #submit:active{
     opacity: 0.8;
 }
+@media(max-width:767px){
+.box form .inputBox { width: 100%;}
+}
